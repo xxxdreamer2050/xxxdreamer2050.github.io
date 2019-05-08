@@ -4,10 +4,10 @@
 baseurl:
 url: https://xxxdreamer2050.github.io
 date_format: "ordinal"
-title: 学匠
-subtitle: "学无先后 达者为师"
+title: XXXDREAMER2050
+subtitle: "A long way to go."
 description: "XXXDREAMER's Blog"
-keywords: 学匠, XXXDREAMER
+keywords: XXXDREAMER
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
