@@ -103,7 +103,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: xxxdreamer2050
-    repo: xxxdreamer2050/xxxdreamer2050.github.io
+    repo: xxxdreamer2050.github.io
     clientID: 17027184c68a4ced39fb
     clientSecret: 00ebe2397ca96e2029dc48fac0bb97fc0310142e
 # 在使用其它评论组件时可点击显示 Disqus
