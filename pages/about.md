@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 学无先后 达者为师
-keywords: XXXDREAMER, 学匠
+description: A long way to go.
+keywords: XXXDREAMER
 comments: true
-menu: 关于
+menu: About
 permalink: /about/
 ---
 
-我是学匠，学无先后 达者为师。
+Many many dreams.
 
-一直在路上的小学生。
-
-爱拼才会赢。
+Dreams don't die.
 
 ## 联系
 
