@@ -20,7 +20,7 @@ permalink: /about/
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-## Skill Keywords
+## About me
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
